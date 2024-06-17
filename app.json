@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "lista-de-tarefas1",
+    "slug": "snack-074bfaea-4ca9-460e-8e25-5a5b582fe139",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.harrison_monteiro.snack074bfaea4ca9460e8e255a5b582fe139"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e2ac924c-8eb8-470d-bf14-7109842440f0"
+      }
+    }
+  }
+}
